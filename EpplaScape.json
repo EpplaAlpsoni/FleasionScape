@@ -12,7 +12,7 @@
           ],
           "mode": "cdn",
           "enabled": true,
-          "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/DifficultyArt/Images/CasualJerma.png"
+          "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/DifficultyArt/Images/CasualJerma.png"
         },
         {
           "name": "(1) Normal Key Art",
@@ -21,7 +21,7 @@
           ],
           "mode": "cdn",
           "enabled": true,
-          "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/DifficultyArt/Images/NormalJerma.png"
+          "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/DifficultyArt/Images/NormalJerma.png"
         },
         {
           "name": "(1) Hard Key Art",
@@ -30,7 +30,7 @@
           ],
           "mode": "cdn",
           "enabled": true,
-          "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/DifficultyArt/Images/ExtremeJerma.png"
+          "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/DifficultyArt/Images/ExtremeJerma.png"
         }
       ]
     },
@@ -51,7 +51,7 @@
               ],
               "mode": "cdn",
               "enabled": true,
-              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/Enemies/ICBM/Images/ICBMIcon.png"
+              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Enemies/ICBM/Images/ICBMIcon.png"
             },
             {
               "name": "ICBM - Sprite",
@@ -60,7 +60,7 @@
               ],
               "mode": "cdn",
               "enabled": true,
-              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/Enemies/ICBM/Images/ICBMSprite.png"
+              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Enemies/ICBM/Images/ICBMSprite.png"
             },
             {
               "name": "ICBM - Sprite (2 Stack)",
@@ -69,7 +69,7 @@
               ],
               "mode": "cdn",
               "enabled": true,
-              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/Enemies/ICBM/Images/ICBMSprite2Stack.png"
+              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Enemies/ICBM/Images/ICBMSprite2Stack.png"
             }
           ]
         },
@@ -85,7 +85,7 @@
               ],
               "mode": "cdn",
               "enabled": true,
-              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/Enemies/Operator/Images/OperatorActive.png"
+              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Enemies/Operator/Images/OperatorActive.png"
             },
             {
               "name": "Operator / Peaceful",
@@ -94,7 +94,7 @@
               ],
               "mode": "cdn",
               "enabled": true,
-              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/Enemies/Operator/Images/OperatorPeaceful.png"
+              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Enemies/Operator/Images/OperatorPeaceful.png"
             },
             {
               "name": "Operator / Neutral",
@@ -103,7 +103,7 @@
               ],
               "mode": "cdn",
               "enabled": true,
-              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/Enemies/Operator/Images/OperatorNeutral.png"
+              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Enemies/Operator/Images/OperatorNeutral.png"
             },
             {
               "name": "Operator / Attack",
@@ -112,7 +112,7 @@
               ],
               "mode": "cdn",
               "enabled": true,
-              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/Enemies/Operator/Images/OperatorMessedUp.png"
+              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Enemies/Operator/Images/OperatorMessedUp.png"
             },
             {
               "type": "group",
@@ -126,7 +126,7 @@
                   ],
                   "mode": "cdn",
                   "enabled": true,
-                  "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/Enemies/Operator/VBOperator/Images/VBOperatorFlash.png"
+                  "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Enemies/Operator/VBOperator/Images/VBOperatorFlash.png"
                 },
                 {
                   "name": "VBOperator / Active",
@@ -135,7 +135,7 @@
                   ],
                   "mode": "cdn",
                   "enabled": true,
-                  "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/Enemies/Operator/VBOperator/Images/VBOperatorActive.png"
+                  "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Enemies/Operator/VBOperator/Images/VBOperatorActive.png"
                 },
                 {
                   "name": "VBOperator / Neutral",
@@ -144,7 +144,7 @@
                   ],
                   "mode": "cdn",
                   "enabled": true,
-                  "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/Enemies/Operator/VBOperator/Images/VBOperatorNeutral.png"
+                  "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Enemies/Operator/VBOperator/Images/VBOperatorNeutral.png"
                 },
                 {
                   "name": "VBOperator / Icon",
@@ -153,7 +153,7 @@
                   ],
                   "mode": "cdn",
                   "enabled": true,
-                  "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/Enemies/Operator/VBOperator/Images/MalfunctionLogo.png"
+                  "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Enemies/Operator/VBOperator/Images/MalfunctionLogo.png"
                 }
               ]
             },
@@ -164,7 +164,7 @@
               ],
               "mode": "cdn",
               "enabled": true,
-              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/Enemies/Operator/Images/OperatorIcon.png"
+              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Enemies/Operator/Images/OperatorIcon.png"
             }
           ]
         },
@@ -180,7 +180,7 @@
               ],
               "mode": "cdn",
               "enabled": true,
-              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/Enemies/Flesh/Images/FleshSprite.png"
+              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Enemies/Flesh/Images/FleshSprite.png"
             },
             {
               "name": "Flesh / Icon",
@@ -189,7 +189,7 @@
               ],
               "mode": "cdn",
               "enabled": true,
-              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/Enemies/Flesh/Images/FleshIcon.png"
+              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Enemies/Flesh/Images/FleshIcon.png"
             }
           ]
         },
@@ -205,7 +205,7 @@
               ],
               "mode": "cdn",
               "enabled": true,
-              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/Enemies/Telefragger/Audio/LetsTakeALook.mp3"
+              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Enemies/Telefragger/Audio/LetsTakeALook.mp3"
             },
             {
               "name": "Telefragger",
@@ -214,7 +214,7 @@
               ],
               "mode": "cdn",
               "enabled": true,
-              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/Enemies/Telefragger/Images/Telefragger.png"
+              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Enemies/Telefragger/Images/Telefragger.png"
             },
             {
               "name": "Telefragger / Icon",
@@ -223,7 +223,7 @@
               ],
               "mode": "cdn",
               "enabled": true,
-              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/Enemies/Telefragger/Images/TelefraggerIcon.png"
+              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Enemies/Telefragger/Images/TelefraggerIcon.png"
             }
           ]
         },
@@ -239,7 +239,7 @@
               ],
               "mode": "cdn",
               "enabled": true,
-              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/Enemies/Kolona/Images/KolonaEyes.png"
+              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Enemies/Kolona/Images/KolonaEyes.png"
             },
             {
               "name": "Kolona / Pillar",
@@ -248,7 +248,7 @@
               ],
               "mode": "cdn",
               "enabled": true,
-              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/Enemies/Kolona/Images/KolonaPillar.png"
+              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Enemies/Kolona/Images/KolonaPillar.png"
             },
             {
               "name": "Kolona / Plant",
@@ -257,7 +257,7 @@
               ],
               "mode": "cdn",
               "enabled": true,
-              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/Enemies/Kolona/Images/KolonaPlant.png"
+              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Enemies/Kolona/Images/KolonaPlant.png"
             },
             {
               "name": "Kolona / Text",
@@ -266,7 +266,7 @@
               ],
               "mode": "cdn",
               "enabled": true,
-              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/Enemies/Kolona/Images/KolonaText.png"
+              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Enemies/Kolona/Images/KolonaText.png"
             },
             {
               "name": "Kolona / Kill",
@@ -275,7 +275,7 @@
               ],
               "mode": "cdn",
               "enabled": true,
-              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/Enemies/Kolona/Audio/Observing.mp3"
+              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Enemies/Kolona/Audio/Observing.mp3"
             },
             {
               "name": "Kolona / Flame",
@@ -284,7 +284,7 @@
               ],
               "mode": "cdn",
               "enabled": true,
-              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/Enemies/Kolona/Images/KolonaFlame.png"
+              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Enemies/Kolona/Images/KolonaFlame.png"
             },
             {
               "name": "Kolona / Icon",
@@ -293,7 +293,7 @@
               ],
               "mode": "cdn",
               "enabled": true,
-              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/Enemies/Kolona/Images/KolonaIcon.png"
+              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Enemies/Kolona/Images/KolonaIcon.png"
             }
           ]
         },
@@ -407,7 +407,7 @@
               ],
               "mode": "cdn",
               "enabled": true,
-              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/Enemies/Celestial/Images/Celestial4x4.png"
+              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Enemies/Celestial/Images/Celestial4x4.png"
             },
             {
               "name": "Celestial / Aura",
@@ -416,7 +416,7 @@
               ],
               "mode": "cdn",
               "enabled": true,
-              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/Enemies/Celestial/Images/CelestialCircle.png"
+              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Enemies/Celestial/Images/CelestialCircle.png"
             },
             {
               "name": "Celestial / Text",
@@ -425,7 +425,7 @@
               ],
               "mode": "cdn",
               "enabled": true,
-              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/Enemies/Celestial/Images/CelestialText.png"
+              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Enemies/Celestial/Images/CelestialText.png"
             },
             {
               "name": "Celestial / Roar1",
@@ -434,7 +434,7 @@
               ],
               "mode": "cdn",
               "enabled": true,
-              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/Enemies/Celestial/Images/Ring1.png"
+              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Enemies/Celestial/Images/Ring1.png"
             },
             {
               "name": "Celestial / Roar2",
@@ -443,7 +443,7 @@
               ],
               "mode": "cdn",
               "enabled": true,
-              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/Enemies/Celestial/Images/Ring2.png"
+              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Enemies/Celestial/Images/Ring2.png"
             },
             {
               "name": "Celestial / Ring1",
@@ -452,7 +452,7 @@
               ],
               "mode": "cdn",
               "enabled": true,
-              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/Enemies/Celestial/Images/Ring3.png"
+              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Enemies/Celestial/Images/Ring3.png"
             },
             {
               "name": "Celestial / Ring2",
@@ -461,7 +461,7 @@
               ],
               "mode": "cdn",
               "enabled": true,
-              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/Enemies/Celestial/Images/Ring4.png"
+              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Enemies/Celestial/Images/Ring4.png"
             },
             {
               "name": "Celestial / IntroRing1",
@@ -470,7 +470,7 @@
               ],
               "mode": "cdn",
               "enabled": true,
-              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/Enemies/Celestial/Images/IntroRing1.png"
+              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Enemies/Celestial/Images/IntroRing1.png"
             },
             {
               "name": "Celestial / IntroRing2",
@@ -479,7 +479,7 @@
               ],
               "mode": "cdn",
               "enabled": true,
-              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/Enemies/Celestial/Images/IntroRing2.png"
+              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Enemies/Celestial/Images/IntroRing2.png"
             },
             {
               "name": "Celestial / 2 x 2",
@@ -492,7 +492,7 @@
               ],
               "mode": "cdn",
               "enabled": true,
-              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/Enemies/Celestial/Images/Celestial2x2.png"
+              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Enemies/Celestial/Images/Celestial2x2.png"
             },
             {
               "name": "Celestial / 1x1",
@@ -501,7 +501,7 @@
               ],
               "mode": "cdn",
               "enabled": true,
-              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/Enemies/Celestial/Images/Celestial1x1.png"
+              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Enemies/Celestial/Images/Celestial1x1.png"
             }
           ]
         },
@@ -517,7 +517,7 @@
               ],
               "mode": "cdn",
               "enabled": true,
-              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/Enemies/Baby/Images/WegaIconY.png"
+              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Enemies/Baby/Images/WegaIconY.png"
             },
             {
               "name": "Baby Idle 2",
@@ -526,7 +526,7 @@
               ],
               "mode": "cdn",
               "enabled": true,
-              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/Enemies/Baby/Images/Wega3.png"
+              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Enemies/Baby/Images/Wega3.png"
             },
             {
               "name": "Baby Transition",
@@ -535,7 +535,7 @@
               ],
               "mode": "cdn",
               "enabled": true,
-              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/Enemies/Baby/Images/WegaTrans.png"
+              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Enemies/Baby/Images/WegaTrans.png"
             },
             {
               "type": "group",
@@ -549,7 +549,7 @@
                   ],
                   "mode": "cdn",
                   "enabled": true,
-                  "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/Enemies/Baby/Voidbound/Images/129924807410316.png"
+                  "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Enemies/Baby/Voidbound/Images/129924807410316.png"
                 },
                 {
                   "name": "VB Baby Transition",
@@ -558,7 +558,7 @@
                   ],
                   "mode": "cdn",
                   "enabled": true,
-                  "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/Enemies/Baby/Voidbound/Images/110527170713245.png"
+                  "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Enemies/Baby/Voidbound/Images/110527170713245.png"
                 },
                 {
                   "name": "VB Baby Lockon",
@@ -567,7 +567,7 @@
                   ],
                   "mode": "cdn",
                   "enabled": true,
-                  "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/Enemies/Baby/Voidbound/Images/108659217943010.png"
+                  "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Enemies/Baby/Voidbound/Images/108659217943010.png"
                 },
                 {
                   "name": "VB Problem Child",
@@ -576,7 +576,7 @@
                   ],
                   "mode": "cdn",
                   "enabled": true,
-                  "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/Enemies/Baby/Voidbound/Images/95510869006499.png"
+                  "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Enemies/Baby/Voidbound/Images/95510869006499.png"
                 },
                 {
                   "name": "VB Baby Idle 2",
@@ -585,7 +585,7 @@
                   ],
                   "mode": "cdn",
                   "enabled": true,
-                  "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/Enemies/Baby/Voidbound/Images/93689027506923.png"
+                  "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Enemies/Baby/Voidbound/Images/93689027506923.png"
                 },
                 {
                   "name": "VB Baby Charge",
@@ -594,7 +594,7 @@
                   ],
                   "mode": "cdn",
                   "enabled": true,
-                  "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/Enemies/Baby/Voidbound/Images/88716379555193.png"
+                  "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Enemies/Baby/Voidbound/Images/88716379555193.png"
                 },
                 {
                   "name": "VB Baby Scream",
@@ -603,7 +603,7 @@
                   ],
                   "mode": "cdn",
                   "enabled": true,
-                  "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/Enemies/Baby/Voidbound/Audio/Maltigi1.wav"
+                  "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Enemies/Baby/Voidbound/Audio/Maltigi1.wav"
                 },
                 {
                   "name": "VB Baby Icon",
@@ -612,7 +612,7 @@
                   ],
                   "mode": "cdn",
                   "enabled": true,
-                  "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/Enemies/Baby/Voidbound/Images/IconMaltigi.png"
+                  "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Enemies/Baby/Voidbound/Images/IconMaltigi.png"
                 }
               ]
             }
@@ -630,7 +630,7 @@
               ],
               "mode": "cdn",
               "enabled": true,
-              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/Enemies/Bell/Images/idle1.png"
+              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Enemies/Bell/Images/idle1.png"
             },
             {
               "name": "Bell Idle2",
@@ -639,7 +639,7 @@
               ],
               "mode": "cdn",
               "enabled": true,
-              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/Enemies/Bell/Images/idle2.png"
+              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Enemies/Bell/Images/idle2.png"
             },
             {
               "name": "Bell Ring",
@@ -648,7 +648,7 @@
               ],
               "mode": "cdn",
               "enabled": true,
-              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/Enemies/Bell/Images/idlering.png"
+              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Enemies/Bell/Images/idlering.png"
             },
             {
               "name": "Bell Ring - 1",
@@ -657,7 +657,7 @@
               ],
               "mode": "cdn",
               "enabled": true,
-              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/Enemies/Bell/Audio/Bell1.wav"
+              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Enemies/Bell/Audio/Bell1.wav"
             },
             {
               "name": "Bell Ring - 2",
@@ -666,7 +666,7 @@
               ],
               "mode": "cdn",
               "enabled": true,
-              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/Enemies/Bell/Audio/Bell2.wav"
+              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Enemies/Bell/Audio/Bell2.wav"
             },
             {
               "name": "Bell Ring - 3",
@@ -675,7 +675,7 @@
               ],
               "mode": "cdn",
               "enabled": true,
-              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/Enemies/Bell/Audio/Bell3.wav"
+              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Enemies/Bell/Audio/Bell3.wav"
             },
             {
               "name": "Bell Ring - 4",
@@ -684,7 +684,7 @@
               ],
               "mode": "cdn",
               "enabled": true,
-              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/Enemies/Bell/Audio/Bell4.wav"
+              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Enemies/Bell/Audio/Bell4.wav"
             },
             {
               "name": "Bell Icon",
@@ -693,7 +693,7 @@
               ],
               "mode": "cdn",
               "enabled": true,
-              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/Enemies/Bell/Images/bellicon.png"
+              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Enemies/Bell/Images/bellicon.png"
             }
           ]
         },
@@ -790,7 +790,7 @@
           ],
           "mode": "cdn",
           "enabled": true,
-          "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/Misc/Audio/LMSNotify.flac"
+          "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Misc/Audio/LMSNotify.flac"
         },
         {
           "name": "LastRobloxianStanding",
@@ -799,7 +799,7 @@
           ],
           "mode": "cdn",
           "enabled": true,
-          "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/Misc/Images/LastRobloxianStanding.png"
+          "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Misc/Images/LastRobloxianStanding.png"
         },
         {
           "name": "Chaos Shop",
@@ -808,7 +808,7 @@
           ],
           "mode": "cdn",
           "enabled": true,
-          "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/Misc/Images/GoogChaos.png"
+          "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Misc/Images/GoogChaos.png"
         },
         {
           "name": "Doma",
@@ -817,7 +817,7 @@
           ],
           "mode": "cdn",
           "enabled": true,
-          "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/Misc/Images/Doma.png"
+          "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Misc/Images/Doma.png"
         },
         {
           "name": "Greater Curses",
@@ -826,7 +826,7 @@
           ],
           "mode": "cdn",
           "enabled": true,
-          "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/Misc/Images/GreaterCurses.png"
+          "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Misc/Images/GreaterCurses.png"
         }
       ]
     },
@@ -852,7 +852,7 @@
                   ],
                   "mode": "cdn",
                   "enabled": false,
-                  "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/Enemies/Cadence/Alt/Audio/InstrumentSpawn.ogg"
+                  "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Enemies/Cadence/Alt/Audio/InstrumentSpawn.ogg"
                 },
                 {
                   "name": "Cadence / 4th Stage",
@@ -903,7 +903,7 @@
               ],
               "mode": "cdn",
               "enabled": false,
-              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/Enemies/Cadence/Alt/Images/CadenceIcon.png"
+              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Enemies/Cadence/Alt/Images/CadenceIcon.png"
             },
             {
               "name": "Cadence / Sprite (2)",
@@ -912,7 +912,7 @@
               ],
               "mode": "cdn",
               "enabled": false,
-              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/Enemies/Cadence/Alt/Images/CadenceSprite.png"
+              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Enemies/Cadence/Alt/Images/CadenceSprite.png"
             },
             {
               "name": "Cadence / Harp + Violin (2)",
@@ -922,7 +922,7 @@
               ],
               "mode": "cdn",
               "enabled": false,
-              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/Enemies/Cadence/Alt/Images/Instrument.png"
+              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Enemies/Cadence/Alt/Images/Instrument.png"
             },
             {
               "name": "Cadence / Enrage Transition (2)",
@@ -931,7 +931,7 @@
               ],
               "mode": "cdn",
               "enabled": false,
-              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/Enemies/Cadence/Alt/Images/EnrageStart.png"
+              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Enemies/Cadence/Alt/Images/EnrageStart.png"
             },
             {
               "name": "Cadence / Enraged Eye Idle",
@@ -940,7 +940,7 @@
               ],
               "mode": "cdn",
               "enabled": false,
-              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/main/Enemies/Cadence/Alt/Images/EnrageEyeIdle.png"
+              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Enemies/Cadence/Alt/Images/EnrageEyeIdle.png"
             }
           ]
         }
