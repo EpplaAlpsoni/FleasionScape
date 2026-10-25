@@ -775,6 +775,68 @@
               "cdn_url": "https://imglink.cc/cdn/_BJ-yI-AFM.png"
             }
           ]
+        },
+        {
+          "type": "group",
+          "name": "Cadence",
+          "expanded": false,
+          "children": [
+            {
+              "name": "Cadence / Enraged Arms",
+              "replace_ids": [
+                80343099732651
+              ],
+              "mode": "cdn",
+              "enabled": false,
+              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Enemies/Cadence/Images/EnrageArms.png"
+            },
+            {
+              "name": "Cadence / Logo",
+              "replace_ids": [
+                117456091308612
+              ],
+              "mode": "cdn",
+              "enabled": false,
+              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Enemies/Cadence/Images/CadenceIcon.png"
+            },
+            {
+              "name": "Cadence / Sprite",
+              "replace_ids": [
+                121511262610194
+              ],
+              "mode": "cdn",
+              "enabled": false,
+              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Enemies/Cadence/Images/CadenceSprite.png"
+            },
+            {
+              "name": "Cadence / Harp + Violin",
+              "replace_ids": [
+                126940619284494,
+                126991764139006
+              ],
+              "mode": "cdn",
+              "enabled": false,
+              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Enemies/Cadence/Images/Instrument.png"
+            },
+            {
+              "name": "Cadence / Enrage Transition",
+              "replace_ids": [
+                139681064080998
+              ],
+              "mode": "cdn",
+              "enabled": false,
+              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Enemies/Cadence/Images/EnrageStart.png"
+            },
+            {
+              "name": "Cadence / Enraged Eye Idle",
+              "replace_ids": [
+                96655129435876
+              ],
+              "mode": "cdn",
+              "enabled": false,
+              "cdn_url": "https://raw.githubusercontent.com/EpplaAlpsoni/FleasionScape/refs/heads/main/Enemies/Cadence/Images/EnrageEyeIdle.png"
+            }
+          ]
         }
       ]
     },
